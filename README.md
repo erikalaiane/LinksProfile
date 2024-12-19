@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O LinksProfile é um agregador de links para usar como cartão de visitas online, como um site Linktree.
 
-- [Acesse o projeto finalizado, online](https://erikalaiane.github.io/linktree-light-dark-mode/)
+- [Acesse o projeto finalizado, online](https://erikalaiane.github.io/LinksProfile//)
 
 
 ## 🔖 Layout
